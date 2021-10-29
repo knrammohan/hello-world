@@ -8,3 +8,5 @@ Add another line for testing.
 Last try :), with conflict ?
 
 From branch2, new line.
+
+From br2
