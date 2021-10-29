@@ -5,4 +5,4 @@ Just another repository
 
 Add another line for testing.
 
-Last try :) 
+Last try :), with conflict ?
