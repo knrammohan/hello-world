@@ -7,6 +7,8 @@ Add another line for testing.
 
 Last try :), with conflict ?
 
+Try another conflict.
+
 From branch2, new line.
 
 From PC into main.
